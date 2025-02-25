@@ -9,10 +9,15 @@
     Example: 
     .\AzureOrphanedAccounts.ps1 -tenant <YOUR_TENANT_ID>
 
+    Permissions:
+    List of permissions required to run the script:
+    - Microsoft.Authorization/roleAssignments/read
+    - Microsoft.Authorization/roleAssignments/delete
+  
     Repo: https://github.com/NZCypher819/AzureOrphanedAccounts
 
     Author: 
-    C Cunningham
+    C. Cunningham
     Principal Consultant
     Microsoft ISD EAG
 #>

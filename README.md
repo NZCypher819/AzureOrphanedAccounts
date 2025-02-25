@@ -16,5 +16,7 @@ To get started with AzureOrphanedAccounts, follow these steps:
 .\AzureOrphanedAccounts.ps1 -tenantid <YOUR_TENANT_ID>
 ```
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+## Permissions
+The following ard the required permissions to execute the script against a Azure Tenant.
+- Microsoft.Authorization/roleAssignments/read
+- Microsoft.Authorization/roleAssignments/delete
