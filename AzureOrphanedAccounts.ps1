@@ -6,6 +6,9 @@
 
     -tenantID: The Azure Tenant ID required for authentication.
 
+    Example: 
+    .\AzureOrphanedAccounts.ps1 -tenant <YOUR_TENANT_ID>
+
     Repo: https://github.com/NZCypher819/AzureOrphanedAccounts
 
     Author: 

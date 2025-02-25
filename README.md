@@ -13,7 +13,7 @@ To get started with AzureOrphanedAccounts, follow these steps:
 2. Navigate to the project directory: `cd AzureOrphanedAccounts`
 3. Run the PowerShell Script in PS7
 ```powershell
-.\AzureOrphanedAccounts.ps1 -tenant <YOUR_TENANT_ID>
+.\AzureOrphanedAccounts.ps1 -tenantid <YOUR_TENANT_ID>
 ```
 
 ## License
