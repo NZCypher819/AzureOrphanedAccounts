@@ -18,8 +18,6 @@
 
     Author: 
     C. Cunningham
-    Principal Consultant
-    Microsoft ISD EAG
 #>
 
 param (
