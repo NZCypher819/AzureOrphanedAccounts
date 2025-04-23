@@ -1,5 +1,9 @@
 ## Azure Orphaned Accounts
-Azure Orphaned Accounts is a simple tool designed to identify and manage orphaned accounts in Azure. Orphaned accounts are user or service accounts that are no longer associated with an active user or service, often due to changes in personnel or decommissioned services. This tool helps in maintaining security and compliance by ensuring that these accounts are identified and handled appropriately.
+Orphaned accounts are user accounts that are no longer associated with an active user. These accounts can pose significant security risks if not properly managed. In Microsoft Entra, it is crucial to look for and remove orphaned accounts to maintain a secure and efficient environment.
+
+Orphaned accounts can be exploited by malicious actors to gain unauthorized access to sensitive information and resources. These accounts may still have permissions and access rights that can be used to compromise the system. Regularly auditing and removing orphaned accounts helps to mitigate these risks.
+
+Orphaned accounts are user or service accounts that are no longer associated with an active user or service, often due to changes in personnel or decommissioned services. This tool helps in maintaining security and compliance by ensuring that these accounts are identified and handled appropriately.
 
 ## Features
 - Scans Azure Roles for orphaned accounts
